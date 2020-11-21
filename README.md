@@ -1,7 +1,7 @@
 # Bikehsare-
 ## Bikeshare Data Analysis
 
-#### This data consisted of over half a million entries regarding bikeshare user demographics, time, and location! The data set was provided by udacity and was one of many in the link that udcity proveded. this one in particular was for the years 2017-2018 and provided key insights into biking patterns.
+#### This data consisted of over half a million entries regarding bikeshare user demographics, time, and location! The data set was provided by Lyft and was one of the larger sets of data they had. this one in particular was for the years 2017-2018 and provided key insights into biking patterns.
 
 ## Summary of Findings
 
